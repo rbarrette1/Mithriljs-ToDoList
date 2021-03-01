@@ -8,6 +8,7 @@ app.get('/', (req, res) => res.send(`<body>
 
 	<script>
 		// variables
+		// 
 		var data = "" // to store input from textfield
 		var count = 0 // to count how many items have been added or removed from the list
 		var items = [] // list to store to-do items that were entered
