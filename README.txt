@@ -1,4 +1,4 @@
-
+This is a simple To do list implemented in Mithril JS.
 
 HOW TO RUN MY PROJECT:
 To build the docker image:
